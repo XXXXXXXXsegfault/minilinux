@@ -1,2 +1,2 @@
-This system is based on Linux 5.19.17 and derived from my BLFS3_GUI system.
+This system is based on Linux 6.4.2 and derived from my BLFS3_GUI system.
 You can boot from the image file with EFI to read source files.
